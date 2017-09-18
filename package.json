@@ -1,7 +1,7 @@
 {
   "name": "thingtodo",
   "version": "0.1.0",
-  "homepage": "http://underdog.github.io/thingtodo-site",
+  "homepage": "https://underdogdude.github.io/thingtodo-site",
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
